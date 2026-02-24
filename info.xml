@@ -14,8 +14,8 @@
     <url desc="Support">https://www.fuzion.co.nz</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2020-09-02</releaseDate>
-  <version>1.1</version>
+  <releaseDate>2026-02-25</releaseDate>
+  <version>1.2</version>
   <develStage>alpha</develStage>
   <compatibility>
     <ver>5.0</ver>
